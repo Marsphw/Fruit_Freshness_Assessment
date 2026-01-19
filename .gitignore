@@ -1,0 +1,12 @@
+data/raw/
+data/processed/
+dataset.csv
+
+model/
+*.pth
+*.joblib
+*.pkl
+
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
