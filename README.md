@@ -106,7 +106,7 @@ To verify the model's real-world applicability, we tested the final **CNN + HSV 
 
 ### Step 1: Clone the Repository
 ```
-git clone
+git clone git@github.com:Marsphw/Fruit_Freshness_Assessment.git
 cd Fruit_Freshness_Assessment
 ```
 
